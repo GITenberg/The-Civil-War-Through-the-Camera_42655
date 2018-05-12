@@ -1,0 +1,37 @@
+_repo: The-Civil-War-Through-the-Camera_42655
+_version: 0.1.0
+contributor:
+  photographer:
+    agent_name: Brady, Mathew B.
+    aliases:
+    - Brady, Matthew B.
+    - Brady, M. B. (Mathew B.)
+    deathdate: 1896
+    gutenberg_agent_id: '42477'
+    url: http://www.gutenberg.org/2009/agents/42477
+covers:
+- cover_type: archival
+  image_path: 42655-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Elson, Henry W. (Henry William)
+    alias: Elson, Henry William
+    birthdate: 1857
+    deathdate: 1935
+    gutenberg_agent_id: '41799'
+    url: http://www.gutenberg.org/2009/agents/41799
+description: ''
+gutenberg_issued: '2013-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Pictorial works'
+title: The Civil War Through the Camera
+url: http://www.gutenberg.org/ebooks/42655
