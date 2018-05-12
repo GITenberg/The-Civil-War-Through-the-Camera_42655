@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '41799'
     url: http://www.gutenberg.org/2009/agents/41799
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42655#The-Civil-War-Through-the-Camera
 gutenberg_issued: '2013-05-07'
 gutenberg_type: Text
 identifiers:
